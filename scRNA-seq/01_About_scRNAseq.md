@@ -1,20 +1,70 @@
-# BISR Tutorials: training material from Georgetown-BISR 
+# Introduction to single cell RNA-seq (scRNA-seq) data analysis
+Authors: Krithika Bhuvaneshwar, Yuriy Gusev
+Affiliation: Innovation Center For Biomedical Informatics (ICBI), and Biomedical Informatics Shared Resource (BISR) at Georgetown University Medical Center (GUMC)
 
-## About BISR
-Faculty and staff at Georgetown University Innovation Center For Biomedical Informatics (Georgetown-ICBI) provide expert support services and work with researchers to select what data analysis approach could be most insightful for different studies, clinical datasets organization, and running data through bioinformatics pipelines to help answer research questions. 
+***More about our research work:***
+* *ICBI: https://icbi.georgetown.edu*
+* *BISR: https://icbi.georgetown.edu/bisr/ and https://lombardi.georgetown.edu/research/sharedresources/bbsr/*
 
-Consultations often involves study guidance, information about available resources, systems and tools, and analytic services depending on the scope of the project. The general areas of consultation include: next generation sequencing analysis, molecular profiling analysis, big data analytics, data integration, visualization, systems biology analysis, G-DOC, and bioinformatics software training. 
+## What is single cell RNA-seq data ?
+* Traditional next generation sequencing (NGS) is done on a bulk scale. It is called bulk NGS, and the expression data is averaged
+* In contrast scRNA-seq allows users to get thousands of measurements from individual cells across thousands of dimensions (genes)
 
-This service is offered to the Georgetown Univiersity community through the Biomedical Informatics Shared Resrouce (BISR)
+Image
 
-### Learn more about BISR and how to request a consultation:
-* https://icbi.georgetown.edu/services-new/
-* https://lombardi.georgetown.edu/research/sharedresources/bbsr/
+## Why do single cell sequencing ? You can get the same clusters as in flow cytometry
+In single cell sequencing, users can 
+* sequence every cell 
+* look at the transcriptional profiles of each of these clusters to identify different cell types - can get information about each clone 
+* Clusters can be further broken down and analyzed by the genes
+* Take measurements on 20,000 genes that might be present in samples
+* Explore individual clusters - it is possible to re-cluster and get more separation within one cluster 
 
-### Learn more about Georgetown-ICBI:
-* https://icbi.georgetown.edu
+In contrast flow cytometry and mass cytometry can 
+* only sequence a few limited markers 
 
-### Contact information
-* Yuriy Gusev PhD, Co-Director (yg63 at georgetown dot edu)
-* Adil Alaoui MS MBA, Co-Director (alaoui at georgetown dot edu)
-* Krithika Bhuvaneshwar MS, Senior Bioinformatics Scientist
+## Advantages 
+* Very high dimensional read out compared to other methods 
+
+## Disadvantages 
+* Cannot examine mutations
+ 
+## Applications
+* Cancer
+* Immunology
+* Allowed development of new analysis methods and computational approaches - pseudotime cell ordering i.e. ordering single cells in pseudotime and placing them along a trajectory corresponding to a biological process
+
+## Popular software tools for analysis of scRNA-seq data
+(a) Monocle 
+* Comprehensive package 
+* Introduced concept of Pseudotime cell ordering
+* Clustering
+* Differential gene expression testing,
+
+(b) Seurat
+* Performs quality control (QC), analysis, and exploration 
+* Unsupervised clustering and discovery of cell types and states, 
+* Spatial reconstruction of single cell data
+* Integrated analysis of single cell RNA-seq across conditions, technologies, and species
+* Main asset - ability to use data from different sequencing technology, species or condition, and integrate them to identify shared population across data sets
+* Cannot do Pseudotime cell ordering
+
+## Tools for Downstream analysis of Single cell data
+* SCENIC https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/
+* SCA - IRCM
+https://github.com/SCA-IRCM
+
+## Links to interesting videos
+* https://www.youtube.com/watch?v=k9VFNLLQP8c
+* 
+
+## Recommended reading 
+* E-book Orchestrating Single-Cell Analysis with Bioconductor: https://bioconductor.org/books/release/OSCA/  
+
+## References
+* https://www.youtube.com/watch?v=k9VFNLLQP8c
+* https://medium.com/@HeleneOMICtools/your-top-3-single-cell-rna-sequencing-analysis-tools-221b65fbc57e 
+
+
+
+
