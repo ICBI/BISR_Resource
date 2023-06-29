@@ -5,7 +5,7 @@ Faculty and staff at Georgetown University Innovation Center For Biomedical Info
 
 Consultations often involves study guidance, information about available resources, systems and tools, and analytic services depending on the scope of the project. The general areas of consultation include: next generation sequencing analysis, molecular profiling analysis, big data analytics, data integration, visualization, systems biology analysis, G-DOC, and bioinformatics software training. 
 
-This service is offered to the Georgetown Univiersity community through the Biomedical Informatics Shared Resrouce (BISR)
+These services are offered to the Georgetown Univiersity community through the Biomedical Informatics Shared Resource (BISR)
 
 ### Learn more about BISR and how to request a consultation:
 * https://icbi.georgetown.edu/services-new/
