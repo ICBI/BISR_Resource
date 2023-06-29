@@ -34,6 +34,12 @@ In contrast flow cytometry and mass cytometry can
 * Immunology
 * Allowed development of new analysis methods and computational approaches - pseudotime cell ordering i.e. ordering single cells in pseudotime and placing them along a trajectory corresponding to a biological process
 
+## Different technologies
+* Earliest - plate based SMART-seq
+* Drop seq - more parallel , droplet based, less expensive
+* 10 X genomics - latest (similar to Dropset)
+* Microwells - parallel single seq without droplets 
+
 ## How get the gene expression count matrix file from raw FASTQC files
 * Can use Nextflow: https://nf-co.re/scrnaseq
 
