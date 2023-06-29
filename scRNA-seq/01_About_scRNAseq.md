@@ -41,9 +41,11 @@ In contrast flow cytometry and mass cytometry can
 * Microwells - parallel single seq without droplets 
 
 ## How get the gene expression count matrix file from raw FASTQC files
-* Can use Nextflow: https://nf-co.re/scrnaseq
-
-  
+Can use Nextflow: https://nf-co.re/scrnaseq which includes the foloowing tools
+* STARsolo - a droplet-based scRNA-seq-specific variant of the popular genome alignment method STAR. Produces results very close to those of Cellranger 
+* Kallisto/ bustools - developed by the originators of the transcriptome quantification method, Kallisto.
+* Alevin - another transcriptome analysis method developed by the authors of the Salmon tool.
+* Cellranger - Tool from 10X Genomics that uses STAR under the hood
 
 ## Popular software tools for analysis of scRNA-seq data matrix files
 (a) Monocle 
