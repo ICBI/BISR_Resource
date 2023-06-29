@@ -41,8 +41,8 @@ In contrast flow cytometry and mass cytometry can
 * Microwells - parallel single seq without droplets 
 
 ## How get the gene expression count matrix file from raw FASTQC files
-* Can use Nextflow: https://nf-co.re/scrnaseq which includes the foloowing tools
-* Galaxy
+* Nextflow: https://nf-co.re/scrnaseq which includes the foloowing tools
+* Galaxy: https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/tutorial.html
 
 **Tools that can do this**
 * STARsolo - a droplet-based scRNA-seq-specific variant of the popular genome alignment method STAR. Produces results very close to those of Cellranger 
@@ -80,7 +80,9 @@ https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/
 
 ## References
 * https://www.youtube.com/watch?v=k9VFNLLQP8c
-* https://medium.com/@HeleneOMICtools/your-top-3-single-cell-rna-sequencing-analysis-tools-221b65fbc57e 
+* https://medium.com/@HeleneOMICtools/your-top-3-single-cell-rna-sequencing-analysis-tools-221b65fbc57e
+* https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/tutorial.html
+* https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.html#monocle-workflow
 
 
 
