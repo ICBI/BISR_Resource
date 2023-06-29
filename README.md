@@ -18,3 +18,11 @@ These services are offered to the Georgetown Univiersity community through the B
 * Yuriy Gusev PhD, Co-Director (yg63 at georgetown dot edu)
 * Adil Alaoui MS MBA, Co-Director (alaoui at georgetown dot edu)
 * Krithika Bhuvaneshwar MS, Senior Bioinformatics Scientist
+
+## Tutorials available
+A folder has been created in this github repo for the following topics. Tutorials will be added to each
+* Microarray fene-expression
+* RNA-seq
+* Microarray microRNA and microRNA-seq
+* Single cell RNA-seq (scRNA-seq)
+* .... 
