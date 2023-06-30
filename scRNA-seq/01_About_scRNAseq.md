@@ -44,7 +44,7 @@ In contrast flow cytometry and mass cytometry can
 * Nextflow: https://nf-co.re/scrnaseq which includes the tools in the Figure
 * Galaxy: https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/tutorial.html
 
-<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA-seq/scrnaseq_pipeline_v1.0_metro_clean.png" width="1000" height="500">
+<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA-seq/scrnaseq_pipeline_v1.0_metro_clean.png" width="500" height="200">
 
 
 **Tools for this processing**
