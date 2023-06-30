@@ -40,7 +40,11 @@ In contrast flow cytometry and mass cytometry can
 * Earliest - plate based SMART-seq
 * Drop seq - more parallel , droplet based, less expensive
 * 10 X genomics - latest (similar to Dropset)
-* Microwells - parallel single seq without droplets 
+* Microwells - parallel single seq without droplets
+
+## Experimental design
+* Tissue of interest -> Disassociation of cells -> Isolation of cells -> Get Single Cell -> RNA extraction ->
+  cDNA synthesis -> Amplification > Sequencing (Get FASTQ File) -> Get expression matrix -> Analysis
 
 ## How get the gene expression count matrix file from raw FASTQC files
 * Nextflow: https://nf-co.re/scrnaseq which includes the tools in the Figure
@@ -70,6 +74,10 @@ In contrast flow cytometry and mass cytometry can
 * Main asset - ability to use data from different sequencing technology, species or condition, and integrate them to identify shared population across data sets
 * Cannot do Pseudotime cell ordering
 
+(c) Scanpy
+* Python
+* Output data format is an "ann" file
+  
 ## Tools for Downstream analysis (regulatory networks)
 * SCENIC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/
 * SCA - IRCM: https://github.com/SCA-IRCM (Allows single cell RNA seq data analysis, clustering, creates internal network and infers cell-cell interactions)
