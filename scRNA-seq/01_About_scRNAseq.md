@@ -30,8 +30,10 @@ In contrast flow cytometry and mass cytometry can
 * Cannot examine mutations
  
 ## Applications
-* Cancer
-* Immunology
+* Cancer, Immunology
+* Study cell populations in a tissue
+* Discover new cell types
+* Discover new markers and regulatory pathways
 * Allowed development of new analysis methods and computational approaches - pseudotime cell ordering i.e. ordering single cells in pseudotime and placing them along a trajectory corresponding to a biological process
 
 ## Different technologies
