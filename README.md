@@ -19,10 +19,25 @@ These services are offered to the Georgetown Univiersity community through the B
 * Adil Alaoui MS MBA, Co-Director (alaoui at georgetown dot edu)
 * Krithika Bhuvaneshwar MS, Senior Bioinformatics Scientist
 
-## Tutorials available
+## Tutorials available from BISR
 A folder has been created in this github repo for the following topics. Tutorials will be added to each
 * Microarray fene-expression
 * RNA-seq
 * Microarray microRNA and microRNA-seq
 * Single cell RNA-seq (scRNA-seq)
-* .... 
+
+## Other suggested tutorials
+* Introduction to R
+  * https://qcb.ucla.edu/collaboratory/workshops/w3-intro-to-r/
+  * https://bioinformatics.niaid.nih.gov/resources#20.3.1
+  * Datacamp courses
+* Introduction to Data Science 
+  * Coursera courses from Johns Hopkins
+* Introduction to command line unix
+  * https://qcb.ucla.edu/collaboratory/workshops/w1-intro-to-unix-command-line/
+  * Datacamp courses
+* Introduction to NGS data and analysis
+  * https://qcb.ucla.edu/collaboratory/workshops/w4-galaxy-for-ngs-data-analysis/
+  * Genomic Data Science courses in Coursera from Johns Hopkins
+* Intoduction to Python for Biologists
+  * NIH /NIAID webinar by Richard Squires : https://bioinformatics.niaid.nih.gov/resources#70.3.1
