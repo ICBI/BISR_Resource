@@ -43,8 +43,8 @@ In contrast flow cytometry and mass cytometry can
 * Microwells - parallel single seq without droplets
 
 ## Experimental design
-* Tissue of interest -> Disassociation of cells -> Isolation of cells -> Get Single Cell -> RNA extraction ->
-  cDNA synthesis -> Amplification > Sequencing (Get FASTQ File) -> Get expression matrix -> Analysis
+* Tissue of interest -> Disassociation of cells (by using enzymes, cations, chelating agents) -> Isolation of cells -> Get Single Cell -> RNA extraction ->
+  cDNA synthesis -> Amplification -> Sequencing (Get FASTQ File) -> Get expression matrix -> Analysis
 
 ## How get the gene expression count matrix file from raw FASTQC files
 * Nextflow: https://nf-co.re/scrnaseq which includes the tools in the Figure
