@@ -36,15 +36,17 @@ In contrast flow cytometry and mass cytometry can
 * Discover new markers and regulatory pathways
 * Reconstruct cellular lineage - (pseudotime cell ordering) i.e. ordering single cells in pseudotime and placing them along a trajectory corresponding to a biological process
 
-## Different technologies
+## Experimental design
+* Tissue of interest --> Disassociation of cells (by using enzymes, cations, chelating agents) --> Isolation of cells -->
+  Get Single Cell --> RNA extraction --> cDNA synthesis --> Amplification -->
+  Sequencing (Get FASTQ File) --> Get expression matrix --> Analysis
+
+## Different technologies for isolation of the cels
 * Earliest - plate based SMART-seq
 * Drop seq - more parallel , droplet based, less expensive
 * 10 X genomics - latest (similar to Dropset)
 * Microwells - parallel single seq without droplets
 
-## Experimental design
-* Tissue of interest -> Disassociation of cells (by using enzymes, cations, chelating agents) -> Isolation of cells -> Get Single Cell -> RNA extraction ->
-  cDNA synthesis -> Amplification -> Sequencing (Get FASTQ File) -> Get expression matrix -> Analysis
 
 ## How get the gene expression count matrix file from raw FASTQC files
 * Nextflow: https://nf-co.re/scrnaseq which includes the tools in the Figure
