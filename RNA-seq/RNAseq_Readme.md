@@ -9,7 +9,12 @@ More about our research work:
 * BISR: https://icbi.georgetown.edu/bisr/ and https://lombardi.georgetown.edu/research/sharedresources/bbsr/
 
 ## Recommended reading about basics on NGS data and file formats
-* https://learn.gencore.bio.nyu.edu/
-* https://ucdavis-bioinformatics-training.github.io/
-* https://bioinformatics.niaid.nih.gov/resources
-* NIH and NCI webinars, Coursera 
+* From NYU : https://learn.gencore.bio.nyu.edu/
+* From UCDavis: https://ucdavis-bioinformatics-training.github.io/
+* NIH webinars : https://bioinformatics.niaid.nih.gov/resources
+* Coursera
+
+## Advanced tutorials from Georgetown-BISR : requires programming experience
+* Tutorial - how to perform group comparison analysis on RNA-seq gene expression raw count data - 
+
+
