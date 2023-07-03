@@ -1,5 +1,5 @@
 #install.packages("enrichR")
-library(enrichR)
+#library(enrichR)
 
 funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
                                 filename1, #full path and full file name for CSV file
