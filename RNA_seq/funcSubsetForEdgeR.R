@@ -1,7 +1,7 @@
 #if (!requireNamespace("BiocManager", quietly = TRUE))
 #    install.packages("BiocManager")
 #BiocManager::install("edgeR")
-library(edgeR)
+#library(edgeR)
 
 ######### function to subset data
 funcSubsetForEdgeR <- function(inputData , #input Data Matrix
