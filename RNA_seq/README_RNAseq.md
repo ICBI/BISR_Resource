@@ -15,6 +15,6 @@ More about our research work:
 * Coursera
 
 ## Advanced tutorials from Georgetown-BISR : requires programming experience
-* Tutorial - how to perform group comparison analysis on RNA-seq gene expression raw count data - 
+* Tutorial - how to perform group comparison analysis on RNA-seq gene expression raw count data . LINK https://github.com/ICBI/BISR_Tutorials/blob/main/RNA_seq/RNAseq_CompareGroups.ipynb
 
 
