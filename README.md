@@ -37,8 +37,8 @@ These services are offered to the Georgetown Univiersity community through the *
 
 ## Advanced Tutorials available from Georgetown-BISR (require programming experience)
 A folder has been created in this github repo for the following topics. Each folder has description summaries and tutorials with R code for hands-on exercises.
-* Microarray fene-expression
-* RNA-seq
-* Microarray microRNA and microRNA-seq
-* Single cell RNA-seq (scRNA-seq)
+* RNA-seq group comparison analyis using Google Colab in R
+* Single cell RNA-seq (scRNA-seq) - in progress
+* Microarray gene-expression group comparison analyis using Google Colab in R - TBD
+* Microarray microRNA group comparison analyis using Google Colab in R - TBD
 
