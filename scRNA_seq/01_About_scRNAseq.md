@@ -10,7 +10,7 @@ Affiliation: Innovation Center For Biomedical Informatics (ICBI), and Biomedical
 * Traditional next generation sequencing (NGS) is done on a bulk scale. It is called bulk NGS, and the expression data is averaged
 * In contrast scRNA-seq allows users to get thousands of measurements from individual cells across thousands of dimensions (genes)
 
-<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA-seq/Picture1.png" width="600" height="400">
+<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/Picture1.png" width="600" height="400">
 
 ## Why do we need single cell sequencing ? You can get the same clusters as in flow cytometry
 In single cell sequencing, users can 
@@ -52,7 +52,7 @@ In contrast flow cytometry and mass cytometry can
 * Nextflow: https://nf-co.re/scrnaseq which includes the tools in the Figure
 * Galaxy: https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/tutorial.html
 
-<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA-seq/scrnaseq_pipeline_v1.0_metro_clean.png" width="500" height="200">
+<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/scrnaseq_pipeline_v1.0_metro_clean.png" width="500" height="200">
 
 
 **Tools for this processing**
