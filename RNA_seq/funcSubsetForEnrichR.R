@@ -2,7 +2,9 @@
 #library(enrichR)
 
 funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
-                                filename1) { #full path and full file name for CSV file
+                                filename1, #full path and full file name for CSV file
+                                outputFolder = "../output/" , #output folder location
+                                dblist1) {  #object with list of databases
     
     #save shortlisted results
     write.csv(x = shortListResults, file = filename1)
@@ -23,7 +25,7 @@ funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
     
     #Save list of unique genes
     write.table(x = geneListSplit2, 
-                file = paste("../output/", "_shortListedUniqueGenes.tsv", sep=""),
+                file = paste(outputFolder, "_shortListedUniqueGenes.tsv", sep=""),
                 quote = F, sep = "\t", row.names = FALSE, col.names = F)
     
     
@@ -31,8 +33,8 @@ funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
     dbs <- enrichR::listEnrichrDbs()
     
     #List of 15 databases for which enrichment will be done
-    dblist1 <- read.csv(file = "../input/20201203-EnrichR-Databases.txt", 
-                        header = F, stringsAsFactors = F)
+    #dblist1 <- read.csv(file = "../input/20201203-EnrichR-Databases.txt", 
+     #                   header = F, stringsAsFactors = F)
     
     # set output file name
     outputFileName2 <- paste("../output/", "_EnrichR.xlsx", sep="")
