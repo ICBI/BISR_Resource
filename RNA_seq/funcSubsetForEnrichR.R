@@ -2,12 +2,12 @@
 #library(enrichR)
 
 funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
-                                filename1, #full path and full file name for CSV file
+                                filename1 = "output_EnrichR.xlsx", #full path and full file name for output EXCEL file
                                 outputFolder = "../output/" , #output folder location
                                 dblist1) {  #object with list of databases
     
     #save shortlisted results
-    write.csv(x = shortListResults, file = filename1)
+    #write.csv(x = shortListResults, file = filename1)
     
     #### Function to clean gene names
     funcSplit <- function(rep_gene) {
@@ -37,9 +37,9 @@ funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
      #                   header = F, stringsAsFactors = F)
     
     # set output file name
-    outputFileName2 <- paste("../output/", "_EnrichR.xlsx", sep="")
+    #outputFileName2 <- paste("../output/", "_EnrichR.xlsx", sep="")
     
-    source(file = "funcEnrichment.R") 
+    #source(file = "funcEnrichment.R") 
     
     #call function to run Enrichment
     funcEnrichment(dblist1, #list of databases
