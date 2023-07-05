@@ -2,8 +2,7 @@
 #library(enrichR)
 
 funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
-                                filename1, #full path and full file name for CSV file
-                                optionName1 = "option1"){ #name of option
+                                filename1) { #full path and full file name for CSV file
     
     #save shortlisted results
     write.csv(x = shortListResults, file = filename1)
@@ -24,7 +23,7 @@ funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
     
     #Save list of unique genes
     write.table(x = geneListSplit2, 
-                file = paste("../output/", optionName1, "_shortListedUniqueGenes.tsv", sep=""),
+                file = paste("../output/", "_shortListedUniqueGenes.tsv", sep=""),
                 quote = F, sep = "\t", row.names = FALSE, col.names = F)
     
     
@@ -36,7 +35,7 @@ funcSubsetForEnrichR <- function(shortListResults, #short listed matrix
                         header = F, stringsAsFactors = F)
     
     # set output file name
-    outputFileName2 <- paste("../output/", optionName1, "_EnrichR.xlsx", sep="")
+    outputFileName2 <- paste("../output/", "_EnrichR.xlsx", sep="")
     
     source(file = "funcEnrichment.R") 
     
