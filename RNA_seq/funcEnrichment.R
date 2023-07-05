@@ -1,5 +1,5 @@
-library(openxlsx)
-library(enrichR)
+#library(openxlsx)
+#library(enrichR)
 
 funcEnrichment <- function(dblist, genes1, outputFileName) {
         #browser()
