@@ -105,6 +105,8 @@ https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/
 * https://medium.com/@HeleneOMICtools/your-top-3-single-cell-rna-sequencing-analysis-tools-221b65fbc57e
 * https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/tutorial.html
 * https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.html#monocle-workflow
+* Stephanie Hicks: https://speakerdeck.com/stephaniehicks/welcome-to-the-world-of-single-cell-rna-sequencing
+* How to use t-SNE effectively: https://distill.pub/2016/misread-tsne/
 
 
 
