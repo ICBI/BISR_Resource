@@ -17,6 +17,7 @@ These services are offered to the Georgetown Univiersity community through the *
 ### Contact information
 * Yuriy Gusev PhD, Co-Director (yg63 at georgetown dot edu)
 * Adil Alaoui MS MBA, Co-Director (alaoui at georgetown dot edu)
+* Matt McCoy, PhD
 * Krithika Bhuvaneshwar MS, Senior Bioinformatics Scientist
 
 ## Suggested tutorials for beginners
