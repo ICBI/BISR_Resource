@@ -42,6 +42,13 @@ In contrast flow cytometry and mass cytometry can
   Get Single Cell --> RNA extraction --> cDNA synthesis --> Amplification -->
   Sequencing (Get FASTQ File) --> Get expression matrix --> Analysis
 
+* Common Elements of a Library
+    * Library Barcode (Sample Index) - Used to pool multiple samples on one sequencing lane
+    * Cell Barcode (10x Barcode) – Used to identify the cell the read came from
+    * Unique Molecular Index (UMI) – Used to identify reads that arise during PCR replication
+    * Sequencing Reads – Used to identify the gene a read came from
+ 
+ 
 ## Different technologies for isolation of the cels
 * Earliest - plate based SMART-seq
 * Drop seq - more parallel , droplet based, less expensive
