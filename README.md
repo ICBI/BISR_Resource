@@ -38,18 +38,34 @@ These services are offered to the Georgetown Univiersity community through the *
 
 ## Advanced Tutorials available from Georgetown-BISR (require programming experience)
 A folder has been created in this github repo for the following topics. Each folder has description summaries and tutorials with R code for hands-on exercises.
+
+### RNA-seq
 * **RNA-seq summary:**
   https://github.com/ICBI/BISR_Tutorials/blob/main/RNA_seq/README_RNAseq.md
 * **RNA-seq group comparison analyis using Google Colab in R:**
   https://github.com/ICBI/BISR_Tutorials/blob/main/RNA_seq/RNAseq_CompareGroups.ipynb
+
+### Single Cell RNA-seq
 * **Summary of single cell RNA-seq (scRNA-seq)** 
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/README_scRNAseq.md
-* **Analysis using Single-Cell RNA-seq data using Seurat toolkit**
+* **Analysis using Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R**
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/Notebook_SCRNAseq_Seurat.ipynb
-* **Tutorials about machine learning concepts:**
+
+## Machine learning concepts
+* **Tutorials about machine learning concepts using using Google Colab in Python:**
   https://github.com/ICBI/AIMAHEAD_GU/tree/main/Courses/ML_Concepts
-* **Microarray gene-expression group comparison analyis using Google Colab in R** - in progress
-  https://github.com/ICBI/BISR_Tutorials/blob/main/microarray_gene_expression/01_microarray_gene_exp.md
+
+## Microarray gene-expression data (in progress)
+* **Summary**: https://github.com/ICBI/BISR_Tutorials/blob/main/microarray_gene_expression/01_microarray_gene_exp.md
+* **Microarray gene-expression group comparison analyis using Google Colab in R**  - in progress
+
+## Microarray microRNA data (in progress)
+* **Summary**: https://github.com/ICBI/BISR_Tutorials/blob/main/microRNA/01_About_microRNA.md
 * **Microarray microRNA group comparison analyis using Google Colab in R** - in progress
-  https://github.com/ICBI/BISR_Tutorials/blob/main/microRNA/01_About_microRNA.md
+
+## Spatial transcriptomics (future)
+
+## Imaging (future)
+
+
 
