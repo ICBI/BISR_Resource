@@ -101,11 +101,17 @@ https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/
 * Broad Institute single cell workshop https://broadinstitute.github.io/2020_scWorkshop/
 * Orchestrating Single-Cell Analysis with Bioconductor, an e-book that teaches users some common workflows for the analysis of scRNA-seq http://bioconductor.org/books/release/OSCA/
 
-
 ## Platforms that offer pipelines for single cell RNA-seq analysis  
 * Single cell RNA-seq data analyis on the Galaxy platform: https://training.galaxyproject.org/training-material/topics/single-cell/
 * Single-cell RNA-ses analysis pipelines on the Seven Bridges Cancer Genomics Cloud platform: https://cgc.sbgenomics.com
 * Single cell RNA-seq pipelines using Nextflow: https://nf-co.re/scrnaseq
+
+## Types of input data for Seurat or Monocle
+Once the raw data in FASTQ file is processed, the data files can be in several formats
+* **Data cab be MatrixMarket (MTX) format** 
+  The MTX format is a sparse matrix format with genes on the rows and cells on the columns as output by Cell Ranger which is the output from the 10X machine, along with  two metadata files (features information and cell information).
+* **RDS format**
+  Includes 3 files - expression_matrix, cell_metadata, gene_metadata (gene_annotation) files
 
 ## References
 * https://www.youtube.com/watch?v=k9VFNLLQP8c
