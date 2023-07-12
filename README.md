@@ -50,6 +50,8 @@ A folder has been created in this github repo for the following topics. Each fol
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/README_scRNAseq.md
 * **Analysis using Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R**
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/Notebook_SCRNAseq_Seurat.ipynb
+* **Analysis using Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R (mouse genome example)**
+  https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/SCRNAseq_Seurat_Tutorial2.ipynb
 
 ## Machine learning concepts
 * **Tutorials about machine learning concepts using using Google Colab in Python:**
