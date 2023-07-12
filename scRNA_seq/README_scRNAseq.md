@@ -112,6 +112,7 @@ Once the raw data in FASTQ file is processed, the data files can be in several f
   The MTX format is a sparse matrix format with genes on the rows and cells on the columns as output by Cell Ranger which is the output from the 10X machine, along with  two metadata files (features information and cell information).
 * **RDS format**
   Includes 3 files - expression_matrix, cell_metadata, gene_metadata (gene_annotation) files
+IMPORTANT - do NOT use `as.matrix()` on the sparse matrix object. It will convert the sparse matrix into dense matrix object . Dense matrix takes up 20 times more space than sparse matrice
 
 ## References
 * https://www.youtube.com/watch?v=k9VFNLLQP8c
