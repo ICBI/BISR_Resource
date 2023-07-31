@@ -48,7 +48,7 @@ In contrast flow cytometry and mass cytometry can
     * Unique Molecular Index (UMI) – Used to identify reads that arise during PCR replication
     * Sequencing Reads – Used to identify the gene a read came from
  
-<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/library.png" width="400" height="100">
+<img src="https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/library.png" width="400" height="110">
 
  
 ## Different technologies for isolation of the cels
