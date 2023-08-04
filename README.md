@@ -48,10 +48,11 @@ A folder has been created in this github repo for the following topics. Each fol
 ### Single Cell RNA-seq
 * **Summary of single cell RNA-seq (scRNA-seq)** 
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/README_scRNAseq.md
-* **Analysis using Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R**
+* **Analysis of Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R**
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/Notebook_SCRNAseq_Seurat.ipynb
-* **Analysis using Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R (mouse genome example)**
+* **Analysis of Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R (mouse genome example)**
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/SCRNAseq_Seurat_Tutorial2.ipynb
+* Analysis of Single-Cell RNA-seq data using Monocle3 using Google Colab in R --> in progress
 
 ## Machine learning concepts
 * **Tutorials about machine learning concepts using using Google Colab in Python:**
@@ -65,7 +66,8 @@ A folder has been created in this github repo for the following topics. Each fol
 * **Summary**: https://github.com/ICBI/BISR_Tutorials/blob/main/microRNA/01_About_microRNA.md
 * **Microarray microRNA group comparison analyis using Google Colab in R** - in progress
 
-## Spatial transcriptomics (future)
+## Spatial transcriptomics (in progress)
+* **Summary**:
 
 ## Imaging (future)
 
