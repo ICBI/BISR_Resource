@@ -21,9 +21,11 @@ In general there are two ways of doing this. Image reference from PMID: 35761361
 
 **(a) In situ hybridization (ISH)**
 
-How: This is done by hybridization of mRNAs to fluorescently labelled, gene-specific probes. Hybridization refers to polymerization of single-stranded mRNAs to single stranded probes with a complementary sequence. Transcript species can be imaged repeatedly with the same probes but different fluorophores to create a gene-specific barcode as in ISH.
+* How: This is done by hybridization of mRNAs to fluorescently labelled, gene-specific probes. Hybridization refers to polymerization of single-stranded mRNAs to single stranded probes with a complementary sequence. Transcript species can be imaged repeatedly with the same probes but different fluorophores to create a gene-specific barcode as in ISH.
  [PMID: 35761361].
-Data: will be images
+* Data: will be images
+* Example technologies: smfISH, osmFISH, SeqFISH, SeqFISH+, MERFISH
+* Tools: RNAscope
 
 **(b) in situ sequencing (ISS) based methods** 
 
@@ -33,8 +35,9 @@ How: The transcripts are directly sequenced inside a tissue block . Short probes
 
 **(a) Arrays**
 
-How: Arrays of spatially barcoded probes can be used to label mRNAs with a sequence indicating location before undergoing NGS.
-
+* How: Arrays of spatially barcoded probes can be used to label mRNAs with a sequence indicating location before undergoing NGS.
+* Example: 10X Genomcis' Visium machine
+  
 **(b) Microdissection**
 
 How: cells or regions of interest can be directly microdissected and their locations recorded before their transcriptomes undergo NGS. 
