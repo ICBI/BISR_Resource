@@ -37,7 +37,7 @@ More about our research work:
 * Detect and quantify microbes in RNA-seq data
 * Neoantigen profiling
 
-## Processing of raw RNA-seq data
+## Tools for the processing of raw RNA-seq data
 Raw RNA-seq data is in the form of FASTQ files. There are several standard pipelines / tools / platforms that can be used for this
 * Bioconductor workflows
 * Seven Bridges Cancer Genomics cloud
@@ -45,11 +45,18 @@ Raw RNA-seq data is in the form of FASTQ files. There are several standard pipel
 * Nextflow nf-core pipeline (image below)
   ![image](https://github.com/ICBI/BISR_Tutorials/assets/1800604/b350d218-a85d-4306-8f4a-d805a5988057)
 
-## Comprehensive tutorials
+## Tools for downstream analysis
+* Gene ontology: http://geneontology.org/
+* Reactome: https://reactome.org/
+* EnrichR (from Maayan lab): https://maayanlab.cloud/Enrichr/
+* GREAT functional analysis tool from Stanford: http://great.stanford.edu/public/html/
+
+## Comprehensive tutorials for RNA-seq
 * RNAseq with Bioconductor from Rockefeller University: https://rockefelleruniversity.github.io/RU_RNAseq/
 * Gene level exploratory analysis using Bioc : https://master.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
 
 ## Advanced tutorials from Georgetown-BISR : requires programming experience
-* Tutorial - how to perform group comparison analysis on RNA-seq gene expression raw count data . LINK https://github.com/ICBI/BISR_Tutorials/blob/main/RNA_seq/RNAseq_CompareGroups.ipynb
+* Tutorial - group comparison & enrichment analysis using RNA-seq gene expression count data https://github.com/ICBI/BISR_Tutorials/blob/main/RNA_seq/RNAseq_CompareGroups.ipynb
+
 
 
