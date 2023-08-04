@@ -58,14 +58,6 @@ A folder has been created in this github repo for the following topics. Each fol
 * **Tutorials about machine learning concepts using using Google Colab in Python:**
   https://github.com/ICBI/AIMAHEAD_GU/tree/main/Courses/ML_Concepts
 
-## Microarray gene-expression data (in progress)
-* **Summary**: https://github.com/ICBI/BISR_Tutorials/blob/main/microarray_gene_expression/01_microarray_gene_exp.md
-* **Microarray gene-expression group comparison analyis using Google Colab in R**  - in progress
-
-## Microarray microRNA data (in progress)
-* **Summary**: https://github.com/ICBI/BISR_Tutorials/blob/main/microRNA/01_About_microRNA.md
-* **Microarray microRNA group comparison analyis using Google Colab in R** - in progress
-
 ## Spatial transcriptomics (in progress)
 * **Summary**:
 
