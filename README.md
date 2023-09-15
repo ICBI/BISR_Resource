@@ -1,4 +1,4 @@
-# BISR Tutorials: training material from Georgetown-BISR 
+# BISR Tutorials: Training material from Georgetown-BISR 
 
 ## About BISR
 Faculty and staff at **Georgetown University Innovation Center For Biomedical Informatics** (Georgetown-ICBI) provide expert support services and work with researchers to select what data analysis approach could be most insightful for different studies, clinical datasets organization, and running data through bioinformatics pipelines to help answer research questions. 
