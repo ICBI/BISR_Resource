@@ -1,4 +1,4 @@
-# BISR Tutorials: Training material from Georgetown-BISR 
+# BISR Resource: A cloud based resource for research and training
 
 ## About BISR
 Faculty and staff at **Georgetown University Innovation Center For Biomedical Informatics** (Georgetown-ICBI) provide expert support services and work with researchers to select what data analysis approach could be most insightful for different studies, clinical datasets organization, and running data through bioinformatics pipelines to help answer research questions. 
@@ -21,22 +21,22 @@ These services are offered to the Georgetown Univiersity community through the *
 * Krithika Bhuvaneshwar MS, Senior Bioinformatics Scientist
 
 ## Suggested tutorials for beginners
-* Introduction to R
+* **Introduction to R**
   * NIH /NIAID webinar: https://bioinformatics.niaid.nih.gov/resources#20.3.1
   * From UCLA : https://qcb.ucla.edu/collaboratory/workshops/w3-intro-to-r/
   * Datacamp courses
-* Introduction to Data Science 
+* **Introduction to Data Science **
   * Coursera courses from Johns Hopkins
-* Introduction to command line unix
+* **Introduction to command line unix**
   * From UCLA: https://qcb.ucla.edu/collaboratory/workshops/w1-intro-to-unix-command-line/
   * Datacamp courses
-* Introduction to NGS data and analysis
+* **Introduction to NGS data and analysis**
   * From UCLA: https://qcb.ucla.edu/collaboratory/workshops/w4-galaxy-for-ngs-data-analysis/
   * Genomic Data Science courses in Coursera from Johns Hopkins
-* Intoduction to Python for Biologists
+* **Intoduction to Python for Biologists**
   * NIH /NIAID webinar by Richard Squires : https://bioinformatics.niaid.nih.gov/resources#70.3.1
 
-## Advanced Tutorials available from Georgetown-BISR (require programming experience)
+## Advanced Tutorials available from Georgetown-BISR (requires programming experience)
 A folder has been created in this github repo for the following topics. Each folder has description summaries and tutorials with R code for hands-on exercises.
 
 ### RNA-seq
@@ -52,7 +52,7 @@ A folder has been created in this github repo for the following topics. Each fol
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/Notebook_SCRNAseq_Seurat.ipynb
 * **Analysis of Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R (mouse genome example)**
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/SCRNAseq_Seurat_Tutorial2.ipynb
-* Analysis of Single-Cell RNA-seq data using Monocle3 using Google Colab in R --> in progress
+* **Analysis of Single-Cell RNA-seq data using Monocle3 using Google Colab in R** --> in progress
 
 ## Machine learning concepts
 * **Tutorials about machine learning concepts using using Google Colab in Python:**
