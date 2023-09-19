@@ -1,4 +1,4 @@
-# GU BISR Data: A cloud based resource for research and training
+# A cloud based resource for research and training
 
 ## About BISR
 Faculty and staff at **Georgetown University Innovation Center For Biomedical Informatics** (Georgetown-ICBI) provide expert support services and work with researchers to select what data analysis approach could be most insightful for different studies, clinical datasets organization, and running data through bioinformatics pipelines to help answer research questions. 
@@ -55,7 +55,7 @@ A folder has been created in this github repo for the following topics. Each fol
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/Notebook_SCRNAseq_Seurat.ipynb
 * **Analysis of Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R (mouse genome example)**
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/SCRNAseq_Seurat_Tutorial2.ipynb
-* **Analysis of Single-Cell RNA-seq data using Monocle3 using Google Colab in R** --> in progress
+* **Analysis of Single-Cell RNA-seq data using Monocle3 using Google Colab in R** -->  under construction
 
 ## Machine learning concepts
 * **Tutorials about machine learning concepts using using Google Colab in Python:**
