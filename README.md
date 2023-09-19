@@ -1,4 +1,4 @@
-# BISR Resource: A cloud based resource for research and training
+# GU BISR Data: A cloud based resource for research and training
 
 ## About BISR
 Faculty and staff at **Georgetown University Innovation Center For Biomedical Informatics** (Georgetown-ICBI) provide expert support services and work with researchers to select what data analysis approach could be most insightful for different studies, clinical datasets organization, and running data through bioinformatics pipelines to help answer research questions. 
@@ -35,6 +35,9 @@ These services are offered to the Georgetown Univiersity community through the *
   * Genomic Data Science courses in Coursera from Johns Hopkins
 * **Intoduction to Python for Biologists**
   * NIH /NIAID webinar by Richard Squires : https://bioinformatics.niaid.nih.gov/resources#70.3.1
+* **Online platform for data analysis**
+  * Chipster - User-friendly open source tool for data analysis : https://chipster.rahtiapp.fi/home
+  * Chipster tutorials: https://www.youtube.com/@ChipsterTutorials
 
 ## Advanced Tutorials available from Georgetown-BISR (requires programming experience)
 A folder has been created in this github repo for the following topics. Each folder has description summaries and tutorials with R code for hands-on exercises.
