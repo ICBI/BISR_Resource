@@ -55,16 +55,16 @@ A folder has been created in this github repo for the following topics. Each fol
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/Notebook_SCRNAseq_Seurat.ipynb
 * **Analysis of Single-Cell RNA-seq data using Seurat toolkit using Google Colab in R (mouse genome example)**
   https://github.com/ICBI/BISR_Tutorials/blob/main/scRNA_seq/SCRNAseq_Seurat_Tutorial2.ipynb
-* **Analysis of Single-Cell RNA-seq data using Monocle3 using Google Colab in R** -->  under construction
+* **Analysis of Single-Cell RNA-seq data using Monocle3 using Google Colab in R**   -->  under construction
 
-## Machine learning concepts
+### Machine learning concepts
 * **Tutorials about machine learning concepts using using Google Colab in Python:**
   https://github.com/ICBI/AIMAHEAD_GU/tree/main/Courses/ML_Concepts
 
-## Spatial transcriptomics (in progress)
+### Spatial transcriptomics (future)
 * **Summary**:
 
-## Imaging (future)
+### Imaging (future)
 
 
 
