@@ -61,8 +61,11 @@ A folder has been created in this github repo for the following topics. Each fol
 * **Tutorials about machine learning concepts using using Google Colab in Python:**
   https://github.com/ICBI/AIMAHEAD_GU/tree/main/Courses/ML_Concepts
 
+### ChIP-Seq
+General information and resrouces: 
+https://github.com/ICBI/BISR_Resource/blob/main/ChIP-Seq.md
+
 ### Spatial transcriptomics (future)
-* **Summary**:
 
 ### Imaging (future)
 
