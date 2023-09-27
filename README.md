@@ -65,7 +65,9 @@ A folder has been created in this github repo for the following topics. Each fol
 General information and resrouces: 
 https://github.com/ICBI/BISR_Resource/blob/main/ChIP-Seq.md
 
-### Spatial transcriptomics (future)
+### Spatial transcriptomics 
+General information and resources:
+https://github.com/ICBI/BISR_Resource/blob/main/sptial_transcriptomics/About_spatial_tx.md
 
 ### Imaging (future)
 
