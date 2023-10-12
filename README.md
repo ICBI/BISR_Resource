@@ -25,7 +25,7 @@ These services are offered to the Georgetown Univiersity community through the *
   * NIH /NIAID webinar: https://bioinformatics.niaid.nih.gov/resources#20.3.1
   * From UCLA : https://qcb.ucla.edu/collaboratory/workshops/w3-intro-to-r/
   * Datacamp courses
-* **Introduction to Data Science **
+* **Introduction to Data Science**
   * Coursera courses from Johns Hopkins
 * **Introduction to command line unix**
   * From UCLA: https://qcb.ucla.edu/collaboratory/workshops/w1-intro-to-unix-command-line/
@@ -38,6 +38,9 @@ These services are offered to the Georgetown Univiersity community through the *
 * **Online platform for data analysis**
   * Chipster - User-friendly open source tool for data analysis : https://chipster.rahtiapp.fi/home
   * Chipster tutorials: https://www.youtube.com/@ChipsterTutorials
+* **Other Bioinformatics Resources for learning**
+  * https://github.com/mdozmorov?tab=repositories
+  * https://github.com/seandavi?tab=repositories  
 
 ## Advanced Tutorials available from Georgetown-BISR (requires programming experience)
 A folder has been created in this github repo for the following topics. Each folder has description summaries and tutorials with R code for hands-on exercises.
