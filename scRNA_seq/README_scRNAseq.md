@@ -116,6 +116,34 @@ Once the raw data in FASTQ file is processed, the data files can be in several f
   Includes 3 files - expression_matrix, cell_metadata, gene_metadata (gene_annotation) files
 IMPORTANT - do NOT use `as.matrix()` on the sparse matrix object. It will convert the sparse matrix into dense matrix object . Dense matrix takes up 20 times more space than sparse matrice
 
+## 10X Genomics platforms
+* Chromium - Single cell
+  Main applications 
+	- Gene exp 3' - used for long read seq also
+	- 5' immune profiling - - used for long read seq also
+	- million cells in a single cells
+	- ATAC
+	- Milti-ome
+* Chromium - multi-omics
+  - Gene exp 3' and 5'
+	- proteomics - with cell surface
+	- immune cell
+	- Functional genomics  - CRISPR, 
+	- Antigen specific B and T cell discovery
+	- Epigenetics
+	- Fixed samples - for fixed and FFPE
+* Visium Spatial - compatible with long read
+  - whole transcriptome 
+	- can do single + spatial on the same cells
+	- eg. lung microbiome after viral infection
+	- able to pin point location of damage, 
+	- saptial context for cll types and genes of interest 
+	- Workflows 
+		- Fresh frozen - poly A tail - compatible for long reads
+		- CytAssit - probe based capture - only 50 bp probe seq - not compatible with long read
+* Xenium
+  - In situ - what's happening in individual cells (integrated microsscopy)
+
 ## References
 * https://www.youtube.com/watch?v=k9VFNLLQP8c
 * https://medium.com/@HeleneOMICtools/your-top-3-single-cell-rna-sequencing-analysis-tools-221b65fbc57e
